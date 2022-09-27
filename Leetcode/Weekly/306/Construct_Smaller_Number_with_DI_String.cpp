@@ -1,3 +1,5 @@
+// MEDIUM
+
 class Solution {
 public:
     string smallestNumber(string seq) {
