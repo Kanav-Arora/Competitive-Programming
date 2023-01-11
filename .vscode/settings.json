@@ -1,6 +1,13 @@
 {
   "files.associations": {
     "vector": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "barrier": "cpp",
+    "chrono": "cpp",
+    "latch": "cpp",
+    "limits": "cpp",
+    "random": "cpp",
+    "semaphore": "cpp",
+    "valarray": "cpp"
   }
 }
